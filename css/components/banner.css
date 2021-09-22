@@ -1,0 +1,25 @@
+.banner{
+  background-image: linear-gradient(-225deg,rgb(219, 84, 90,0.4) 0%, rgb(44, 204, 196,0.15) 70%), url(../../images/interior.jpg);
+  color: white;
+  padding: 150px 0px;
+  background-size: cover;
+  background-position: center;
+}
+
+.banner h1{
+  font-size: 50px;
+  color: #2cccc4;
+}
+
+.banner h2{
+  font-size: 30px;
+  font-weight: lighter;
+  opacity: 0,8;
+  margin-bottom: 40px;
+  color: white;
+}
+
+
+/* red color #db545a rgb(219, 84, 90) */
+
+/* blue color #2cccc4 */

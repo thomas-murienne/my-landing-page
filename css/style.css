@@ -1,0 +1,35 @@
+/* Importing Google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:ital,wght@0,100;0,300;0,400;0,600;0,900;1,100&family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+/* Importing all components file */
+@import url("components/container.css");
+@import url("components/button.css");
+@import url("components/avatar.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+/* General style rules for fonts and colours */
+body{
+  font-family: 'Be Vietnam Pro', sans-serif;
+  background-color: white;
+  font-weight: 18px;
+  margin: 0px;
+
+}
+
+h1,h2,h3 {
+  font-family: 'Rubik', sans-serif;
+  font-weight: bold;
+  color: #db545a;
+}
+
+p {
+  color: rgb(117,125,142);
+}
+
+a{
+  text-decoration: none;
+
+}
+
